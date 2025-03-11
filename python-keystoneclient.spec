@@ -8,7 +8,7 @@
 Summary:	Client Library for OpenStack Identity
 Name:		python-keystoneclient
 Version:	3.13.0
-Release:	9
+Release:	10
 License:	Apache
 Group:		Libraries/Python
 Source0:	https://files.pythonhosted.org/packages/source/p/python-keystoneclient/%{name}-%{version}.tar.gz
